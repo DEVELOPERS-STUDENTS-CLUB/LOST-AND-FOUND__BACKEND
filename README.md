@@ -1,8 +1,8 @@
-# Express.js Project
+# LOST AND FOUND BACKEND
 
 ## Overview
 
-This is a structured Express.js project following best practices, including a modular architecture, middleware usage, and database integration.
+This is the backend for lost and found app
 
 ## Folder Structure
 
